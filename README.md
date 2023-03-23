@@ -4,9 +4,9 @@ A JavaFX application designed to manage queues with ease. It features a console 
 as well as a modern and user-friendly GUI for a more intuitive experience.
 
 
-|                  Console Menu                 |                      GUI                      |
-|:---------------------------------------------:|:---------------------------------------------:|
-| <img src="screenshots/ss_1.png" width=80%> | <img src="screenshots/ss_2.png" width=80%> |
+|             Console Menu              |               GUI              |
+|:-------------------------------------:|:------------------------------:|
+| ![Console Menu](screenshots/ss_1.png) | ![GUI](screenshots/ss_2.png) |
 
 ## Features
 
