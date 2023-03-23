@@ -6,7 +6,7 @@ as well as a modern and user-friendly GUI for a more intuitive experience.
 
 |                  Console Menu                 |                      GUI                      |
 |:---------------------------------------------:|:---------------------------------------------:|
-| <img src="screenshots/ss_1.png" height="400"> | <img src="screenshots/ss_2.png" height="400"> |
+| <img src="screenshots/ss_1.png" width=80%> | <img src="screenshots/ss_2.png" width=80%> |
 
 ## Features
 
